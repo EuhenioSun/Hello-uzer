@@ -1,0 +1,14 @@
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\bin\Debug\net7.0\Privet_Uzer.exe
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\bin\Debug\net7.0\Privet_Uzer.deps.json
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\bin\Debug\net7.0\Privet_Uzer.runtimeconfig.json
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\bin\Debug\net7.0\Privet_Uzer.dll
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\bin\Debug\net7.0\Privet_Uzer.pdb
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\obj\Debug\net7.0\Privet_Uzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\obj\Debug\net7.0\Privet_Uzer.AssemblyInfoInputs.cache
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\obj\Debug\net7.0\Privet_Uzer.AssemblyInfo.cs
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\obj\Debug\net7.0\Privet_Uzer.csproj.CoreCompileInputs.cache
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\obj\Debug\net7.0\Privet_Uzer.dll
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\obj\Debug\net7.0\refint\Privet_Uzer.dll
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\obj\Debug\net7.0\Privet_Uzer.pdb
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\obj\Debug\net7.0\Privet_Uzer.genruntimeconfig.cache
+C:\Users\kon-f\OneDrive\Документы\Гик Брэйнс\Языки программирования\Примеры\Privet_Uzer\obj\Debug\net7.0\ref\Privet_Uzer.dll
