@@ -4,5 +4,5 @@ string username = Console.ReadLine();
 
  Console.Write ("Привет, ");
  Console.WriteLine (username);
- Console.Write ("Еще раз, ");
- Console.WriteLine (username);
+ Console.Write (username);
+ Console.Write (", ну ты и дурак ");
